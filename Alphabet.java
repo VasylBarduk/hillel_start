@@ -19,7 +19,7 @@ public class Alphabet {
             System.out.println("is a Alphabet" );
         }
        else if (randomChar != ('a'-'z') || randomChar !=('A'-'Z')) {
-           System.out.println("is a Symbol");
+           System.out.println("is not a Symbol");
 
        }
 
